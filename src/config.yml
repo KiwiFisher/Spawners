@@ -1,0 +1,58 @@
+tool: STONE_PICKAXE
+tool-requires-sliktouch: false
+
+prices:
+  chicken:
+    break: 500
+    change: 10000
+  cow:
+    break: 500
+    change: 10000
+  mushroomcow:
+    break: 500
+    change: 10000
+  pig:
+    break: 500
+    change: 10000
+  rabbit:
+    break: 500
+    change: 10000
+  sheep:
+    break: 500
+    change: 10000
+  cavespider:
+    break: 500
+    change: 10000
+  enderman:
+    break: 500
+    change: 10000
+  spider:
+    break: 500
+    change: 10000
+  pigzombie:
+    break: 500
+    change: 10000
+  blaze:
+    break: 500
+    change: 10000
+  ghast:
+    break: 500
+    change: 10000
+  lavaslime:
+    break: 500
+    change: 10000
+  silverfish:
+    break: 500
+    change: 10000
+  skeleton:
+    break: 500
+    change: 10000
+  slime:
+    break: 500
+    change: 10000
+  witch:
+    break: 500
+    change: 10000
+  zombie:
+    break: 500
+    change: 10000

@@ -1,0 +1,7 @@
+main: me.bukkit.kiwifisher.Spawners
+name: Spawners
+author: KiwiFisher
+version: 1.0
+softdepend: [Vault]
+commands:
+  spawners:

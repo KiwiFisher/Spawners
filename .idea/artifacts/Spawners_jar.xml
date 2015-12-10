@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Spawners:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spawners_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Spawners.jar">
+        <element id="module-output" name="Spawners" />
+      </element>
+      <element id="library" level="application" name="Vault-1.4.1" />
+      <element id="library" level="application" name="spigot-1.8.7" />
+    </root>
+  </artifact>
+</component>
